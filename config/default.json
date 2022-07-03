@@ -1,0 +1,7 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://Igor:vizit123@cloud.6mv63ha.mongodb.net/cloud?retryWrites=true&w=majority",
+  "secretKey": "mern-secket-key",
+  "filePath": "C:\\Users\\игорь\\Desktop\\MERN-cloud-disk\\server\\files",
+  "staticPath": "C:\\Users\\игорь\\Desktop\\MERN-cloud-disk\\server\\static"
+}
